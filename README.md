@@ -1,4 +1,4 @@
-# H1yukicoder
+# yukicoder
 url
 http://yukicoder.me/
 
